@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background: rgb(202, 212, 222);
+    background: linear-gradient(90deg, rgba(202, 212, 222, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
+
+p {
+    margin-top: 1rem;
+}
+
+.nav-link {
+    font-size: 18px;
+}
+
+form {
+    padding-top: 1rem;
+}
+
+ul#index {
+    padding-left: 0;
+    list-style-type: none;
+}
+
+input.form-control {
+    max-width: 400px;
+}
+
+textarea {
+    max-width: 600px;    
+}
