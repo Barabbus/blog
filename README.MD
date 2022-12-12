@@ -3,7 +3,9 @@ Blog app
 User can publish, update and delete articles in blog.
 
 Option for user to add an image to and delete an image from an article.
+
 User can create an article but publish it at a later date.
+
 User can send emails.  
 
 Site administration
